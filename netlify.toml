@@ -30,6 +30,6 @@
   force = true  
 [[redirects]]
   from = "https://codecooperative.org/*"
-  to = "https://emergentworks.org/:splat"
+  to = "https://emergentworks.org/"
   status = 301
   force = true  
