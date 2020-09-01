@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/"
+  to = "https://www.emergentworks.org/"
+  status = 200
