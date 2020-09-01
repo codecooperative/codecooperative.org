@@ -2,3 +2,4 @@
   from = "/"
   to = "https://www.emergentworks.org/"
   status = 200
+  force = true
