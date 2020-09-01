@@ -3,3 +3,33 @@
   to = "https://emergentworks.org/"
   status = 301
   force = true  
+[[redirects]]
+  from = "https://codecooperative.org/about"
+  to = "https://emergentworks.org/about"
+  status = 301
+  force = true  
+[[redirects]]
+  from = "https://codecooperative.org/agency"
+  to = "https://emergentworks.org/for-clients"
+  status = 301
+  force = true  
+[[redirects]]
+  from = "https://codecooperative.org/volunteer"
+  to = "https://emergentworks.org/programs"
+  status = 301
+  force = true  
+[[redirects]]
+  from = "https://codecooperative.org/contact"
+  to = "https://emergentworks.org/"
+  status = 301
+  force = true  
+[[redirects]]
+  from = "https://codecooperative.org/donate"
+  to = "https://emergentworks.org/donate"
+  status = 301
+  force = true  
+[[redirects]]
+  from = "https://codecooperative.org/*"
+  to = "https://emergentworks.org/:splat"
+  status = 301
+  force = true  
