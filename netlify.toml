@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/"
+  from = "https://www.codecooperative.org/"
   to = "https://www.emergentworks.org/"
   status = 301
   force = true
